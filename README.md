@@ -18,10 +18,13 @@ const hr = {
 ```
 <hr />
 <em><b>"Some see self-doubt as an invitation to be greater".</b></em>
+<br />
 <em>  Spider-Man PS4 (videogame)</em>
 <hr />
 <em><b>"Life is good, but it can be better".</b></em>
+<br />
 <em>  Wonder Woman 1984 (movie)</em>
 <hr />
 <em><b>"Never waste good tech".</b></em>
+<br />
 <em>  The Flash (series)</em>
