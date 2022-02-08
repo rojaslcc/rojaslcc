@@ -3,7 +3,7 @@
 
 [![Twitter: rojaslcc](https://img.shields.io/twitter/follow/rojaslcc?style=social)](https://twitter.com/rojaslcc/)
 [![Linkedin: rojaslcc](https://img.shields.io/badge/-rojaslcc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rojaslcc/)](https://www.linkedin.com/in/rojaslcc/)
-[![GitHub rojaslcc](https://img.shields.io/github/followers/FernandaOchoa?label=follow&style=social)](https://github.com/rojaslcc/)
+[![GitHub rojaslcc](https://img.shields.io/github/followers/rojaslcc?label=follow&style=social)](https://github.com/rojaslcc/)
 
 ### <img src="https://instagram.fntr9-1.fna.fbcdn.net/v/t51.2885-19/s150x150/272534292_1244596049282735_6274947527427403656_n.jpg?_nc_ht=instagram.fntr9-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=KyupeDcyA8QAX9CGz_9&edm=ALQROFkBAAAA&ccb=7-4&oh=00_AT_d_3eqy2SnIUbT6Etuogf4QBFVWmOtewt9R74CFz7AXg&oe=6208BEC1&_nc_sid=30a2ef" width="50"> Something about me...
 ```javascript
