@@ -10,7 +10,7 @@
 const hr = {
   pronouns: 'He' | 'Him',
   code: ['SQL','C#', 'Java', 'Python', 'Kotlin', 'Swift'], 
-  tools: ['VS Code', 'Visual Studio', 'IntelliJ IDEA'],
+  tools: ['VS Code', 'Visual Studio', 'IntelliJ IDEA', 'Android Studio', 'XCode'],
   areas: ['Database', 'Mobile', 'Custom Software', 'Data Science'],
   challenge: 'Looking to be an excellent element mainly in areas 
     of data science and mobile development.'
