@@ -43,6 +43,11 @@ const hr = {
   <img src="https://scontent.fntr6-2.fna.fbcdn.net/v/t39.30808-6/269648186_4866076073424345_1412288329730470405_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeF2tq-j36mHhhC1W2NrjNdWvP381Phdt6C8_fzU-F23oNm3jbl4K-koCVNdM2X03doTlKIkZOrTLDyRygfk8N8T&_nc_ohc=WLxJV_R0zmYAX8Ysn7m&tn=QKjO0-mVm8Pm8jh3&_nc_ht=scontent.fntr6-2.fna&oh=00_AT_FpTLmfeC9cHwvFhhO9k1m-ARqrtvbB01YOMOkdnKZeQ&oe=622A3597" height="180"/>
   <img src="https://scontent.fntr6-4.fna.fbcdn.net/v/t1.6435-9/157942197_1379010692452749_145795287767352704_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeFIQj3qp5_fhjAmm6xO5P3ZgmN4t7FuHXKCY3i3sW4dcg56UaYrhAcCxEBMV3eIyDXxiyk4HlMXIOliW4XvioYy&_nc_ohc=9zni0UJzaKcAX8VBRYF&_nc_ht=scontent.fntr6-4.fna&oh=00_AT_xaZaeumMJ44T3Xdo3rEEK8vyxZAswcwSMjd_WKETiDA&oe=624D424A" height="180"/>
 </p>
+<br />
+<em><b>"There is nothing on this earth more to be prized than true friendship".</b></em>
+<br />
+<em>Thomas Aquinas</em>
+<br />
 
 # Events
 ### International Meat Congress 2018
@@ -61,12 +66,12 @@ const hr = {
 <hr />
 <em><b>"Some see self-doubt as an invitation to be greater".</b></em>
 <br />
-<em>  Spider-Man PS4 (videogame)</em>
+<em>Spider-Man PS4 (videogame)</em>
 <hr />
 <em><b>"Life is good, but it can be better".</b></em>
 <br />
-<em>  Wonder Woman 1984 (movie)</em>
+<em>Wonder Woman 1984 (movie)</em>
 <hr />
 <em><b>"Never waste good tech".</b></em>
 <br />
-<em>  The Flash (series)</em>
+<em>The Flash (series)</em>
