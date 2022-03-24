@@ -60,7 +60,7 @@ const hr = {
 ### Meat and Dairy Expo 2019
 <p align="center">
   <img src="https://scontent.fntr6-4.fna.fbcdn.net/v/t1.6435-9/53220393_813481712338986_9103307265477181440_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=84a396&_nc_eui2=AeGmF-l6lsr0DYAOtZddSf4tHohJrAHCNiMeiEmsAcI2I7wckKCVoktUugj809LyBc4JRcenCeGywcCCjLYVGufu&_nc_ohc=EeWb2hHeTwkAX_aFsAk&_nc_ht=scontent.fntr6-4.fna&oh=00_AT9TW9tEpKwmsjIisk_OpWttzvKUCNPEwxgBLGMDQxz9EQ&oe=624D0340" height="180"/>
-  <img src="https://scontent.fntr6-4.fna.fbcdn.net/v/t1.6435-9/75456849_984240715263084_3997773396115980288_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=84a396&_nc_eui2=AeHfzq8jIiPOZwZ4bFrgXW97CZvZAp7QrMQJm9kCntCsxDG_39T1IbTb5IcFAJoa56YwvafBxRSR4LRBTPxkhYjl&_nc_ohc=FpiLXbTX2_YAX-Phrrj&_nc_ht=scontent.fntr6-4.fna&oh=00_AT8IQZYVimrMijjNHtEoWaFxrBSjqcUlcNl0TUROkkEtIQ&oe=624B77D2" height="180"/>**
+  <img src="https://scontent.fntr6-4.fna.fbcdn.net/v/t1.6435-9/75456849_984240715263084_3997773396115980288_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=84a396&_nc_eui2=AeHfzq8jIiPOZwZ4bFrgXW97CZvZAp7QrMQJm9kCntCsxDG_39T1IbTb5IcFAJoa56YwvafBxRSR4LRBTPxkhYjl&_nc_ohc=FpiLXbTX2_YAX-Phrrj&_nc_ht=scontent.fntr6-4.fna&oh=00_AT8IQZYVimrMijjNHtEoWaFxrBSjqcUlcNl0TUROkkEtIQ&oe=624B77D2" height="180"/>
 </p>
 
 <hr />
