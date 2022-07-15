@@ -4,6 +4,10 @@
 [![Linkedin: rojaslcc](https://img.shields.io/badge/-rojaslcc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rojaslcc/)](https://www.linkedin.com/in/rojaslcc/)
 [![GitHub rojaslcc](https://img.shields.io/github/followers/rojaslcc?label=follow&style=social)](https://github.com/rojaslcc/)
 
+<p align="center">
+<a href="https://app.daily.dev/rojaslcc"><img src="https://api.daily.dev/devcards/0fb75ece54e74716ba4723660e5a5500.png?r=hbf" width="300" alt="Humberto Rojas's Dev Card"/></a>
+</p>
+
 ### Something about me...
 ```javascript
 const hr = {
