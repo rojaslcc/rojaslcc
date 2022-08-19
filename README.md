@@ -45,6 +45,7 @@ const hr = {
 <p align="center">
   <img src="https://github.com/rojaslcc/rojaslcc/blob/main/img/friends1.jpeg" height="300" />
   <img src="https://github.com/rojaslcc/rojaslcc/blob/main/img/friends2.jpeg" height="300" />
+  <img src="https://github.com/rojaslcc/rojaslcc/blob/main/img/friends4.jpeg" height="300" />
   <img src="https://github.com/rojaslcc/rojaslcc/blob/main/img/friends3.jpeg" height="300" />
 </p>
 <br />
